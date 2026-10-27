@@ -1,0 +1,9 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/Users/User/Desktop/yani/cadd/cod_1/cod_1.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/User/Desktop/yani/cadd/cod_1/cod_1.srcs/sim_1/new/adder_tb.sv,1791796119,systemVerilog,,,,adder_tb,,uvm,../../../../../../../../../../vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/User/Desktop/yani/cadd/cod_1/cod_1.srcs/sim_1/new/mux_tb.sv,1791798554,systemVerilog,,,,mux_tb,,uvm,../../../../../../../../../../vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/User/Desktop/yani/cadd/cod_1/cod_1.srcs/sources_1/new/adder.sv,1791795985,systemVerilog,,C:/Users/User/Desktop/yani/cadd/cod_1/cod_1.srcs/sim_1/new/adder_tb.sv,,adder,,uvm,../../../../../../../../../../vivado/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/Users/User/Desktop/yani/cadd/cod_1/cod_1.srcs/sources_1/new/mux.sv,1791797849,systemVerilog,,C:/Users/User/Desktop/yani/cadd/cod_1/cod_1.srcs/sim_1/new/mux_tb.sv,,mux,,uvm,../../../../../../../../../../vivado/2025.1/Vivado/data/rsb/busdef,,,,,
